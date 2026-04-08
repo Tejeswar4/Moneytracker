@@ -1,0 +1,5 @@
+{
+  "name": "MoneyTrack",
+  "description": "A modern personal finance management app to track income, expenses, borrowed, and lent money with detailed reports and charts.",
+  "requestFramePermissions": []
+}
